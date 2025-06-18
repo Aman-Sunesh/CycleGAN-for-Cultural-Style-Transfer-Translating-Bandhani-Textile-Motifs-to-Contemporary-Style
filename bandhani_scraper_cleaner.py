@@ -16,7 +16,7 @@ keywords = [
     "bandhani art",
     "bandhani royalty free",
     "bandhani background",
-    # Add more as needed. I ran it on 40-50 other keywords
+    # Add more as needed. I ran it on 40-50 other keywords.
 ]
 
 crawler = BingImageCrawler(
