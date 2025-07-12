@@ -78,7 +78,7 @@ pip install -r requirements.txt
 - **Alternative:** Use Curated Kaggle Datasets Uploaded on Kaggle.
   - If you'd rather skip scraping, you can use pre-cleaned datasets I published on Kaggle:
   
-  - - **Bandhani Dataset**: [https://www.kaggle.com/datasets/amansunesh/bandhani-design-dataset](https://www.kaggle.com/datasets/amansunesh/bandhani-design-dataset)  
+  - **Bandhani Dataset**: [https://www.kaggle.com/datasets/amansunesh/bandhani-design-dataset](https://www.kaggle.com/datasets/amansunesh/bandhani-design-dataset)  
   - **Modern Art Dataset**: [https://www.kaggle.com/datasets/amansunesh/modern-art-dataset](https://www.kaggle.com/datasets/amansunesh/modern-art-dataset)
 
 These datasets are already deduplicated, resized to 256×256, and split into `train/` and `val/`.
