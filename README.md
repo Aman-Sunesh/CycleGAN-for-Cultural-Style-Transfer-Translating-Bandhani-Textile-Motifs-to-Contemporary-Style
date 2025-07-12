@@ -115,7 +115,7 @@ path = kagglehub.dataset_download("amansunesh/bandhani-design-dataset")
 
 - **Launch the notebook**:
   ```bash
-  jupyter notebook notebooks/GANDhani_CycleGAN.ipynb
+  jupyter notebook notebooks/GANDhani.ipynb
   ```
 
   - Walks through data transforms, model definitions, and training loop.
