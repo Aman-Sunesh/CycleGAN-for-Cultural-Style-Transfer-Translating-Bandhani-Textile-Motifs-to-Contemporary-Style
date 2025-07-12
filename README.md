@@ -16,6 +16,7 @@ This repo includes:
 
 ## Directory Structure
 
+```bash
 ├── bandhani_scraper_cleaner.py     # Scrape & clean Bandhani images
 ├── modern_scraper_cleaner.py       # Scrape & clean Modern Art images
 ├── random_rename_images.py         # Uniformly rename images in a folder
@@ -33,7 +34,7 @@ This repo includes:
 ├── scripts/                        # Helper scripts & utilities
 ├── requirements.txt                # Python dependencies
 └── README.md                       # This file
-
+```
 
 ## Prerequisites
 
