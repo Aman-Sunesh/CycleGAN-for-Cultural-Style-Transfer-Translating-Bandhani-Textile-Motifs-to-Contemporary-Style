@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Data Collection & Preprocessing
 
-- **Scrape Bandhani images: **
+- **Scrape Bandhani images:**
   ```bash
   python bandhani_scraper_cleaner.py
   ```
@@ -59,7 +59,7 @@ pip install -r requirements.txt
   - Removes near-duplicates via perceptual hashing. 
   - Resizes all images to 256×256.
 
-- **Scrape Modern Art images: **
+- **Scrape Modern Art images:**
 
   ```bash
   python modern_scraper_cleaner.py
