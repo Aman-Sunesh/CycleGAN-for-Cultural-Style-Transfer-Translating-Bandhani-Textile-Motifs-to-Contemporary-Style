@@ -12,7 +12,7 @@ This repo includes:
 - **Data collection & preprocessing** scripts to scrape, deduplicate, resize, and rename images.  
 - **CycleGAN implementation** (Discriminator, Generator, training loop) in PyTorch.  
 - **Jupyter notebooks** for exploratory data visualization and model training.  
-- **Gradio app** for interactive inference.
+- **Gradio app** for interactive inference. 
 
 ## Directory Structure
 
